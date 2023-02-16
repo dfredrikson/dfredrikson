@@ -1,18 +1,64 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate student of Python from Argentina</h3>
+# Hi 👋, I'm Daniel
 
-- 🔭 I’m currently own [Vinosaunclick](vinosaunclick.com)
+A passionate student of Python from Argentina
 
-- 🌱 I’m currently learning **Python**
+## About me
 
-- 👨‍💻 All of my projects are available at [https://github.com/dfredrikson](https://github.com/dfredrikson)
+🔭 I’m currently own Vinosaunclick
 
-- 📫 How to reach me **dani.fredrikson@gmail.com**
+🌱 I’m currently learning Python
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dfredrikson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dfredrikson" height="30" width="40" /></a>
-</p>
+📫 Reach me in: dani.fredrikson@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+And i made this funny README to show you my skills and experiences:
+
+## Skills
+
+```python
+import skills
+
+def all_knowledge(knowledges):
+
+   print("""
+
+         * Basic knowledge in Python and learning.
+         * Interest in learning new technologies in general.
+         * Experience leading and managing a team of 10 people in a restaurant.
+        
+         """)
+
+def all_experience(experiences):
+
+       print("""
+
+         # Eventbrite – EDA Challenge Quoridor Game (May 2022)
+
+         This project allowed me to advance very quickly in my 
+         learning about websocket, pygame, unittest, etc.
+
+         The order had several conditions:
+
+            * Create a bot capable of moving by itself;
+            * Successfully connect to the server;
+            * Send the information correctly;
+            * Use the preferred programming language;
+        
+         """)
+
+if __name__ == "__main__":
+
+    all_knowledge(knowledges)
+    all_experience(experiences)
+
+```
+
+## Personal Jobs
+
+I made the brand and image of my business. Management marketing, social networks and more. Today it is almost self-sufficient.
+
+[Vinosaunclick](https://vinosaunclick.com)
+
+
+## Hobbies
+
+Football player (soccer) and movies and TV series fan
