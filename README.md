@@ -6,7 +6,7 @@ A passionate student of Python from Argentina
 
 🔭 I’m currently own Vinosaunclick
 
-🌱 I’m currently learning SQL
+🌱 I’m currently learning SQL and Django
 
 📫 Reach me in: dani.fredrikson@gmail.com
 
