@@ -13,10 +13,10 @@ A passionate student of Python from Argentina
 
 ## Skills
 
-   ● Knowledge in Python since 2022.
-   ● Creation and editing of videos with platforms such as iMovie and Adobe Premier.
-   ● Brand development with design knowledge using Canva, Illustrator and similar software
-   ● Experience leading and managing a team of 10 people in a restaurant.
+- Knowledge in Python since 2022.
+- Creation and editing of videos with platforms such as iMovie and Adobe Premier.
+- Brand development with design knowledge using Canva, Illustrator and similar software
+- Experience leading and managing a team of 10 people in a restaurant.
 
 ## Personal Jobs
 
