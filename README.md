@@ -42,5 +42,5 @@ I build native tools that automate the boring parts of video editing so creators
 
 ---
 
-### ⚡ Fun Fact
+### Fun Fact
 When I'm not coding or editing, you'll probably find me on a football pitch or catching up on the latest TV series.
